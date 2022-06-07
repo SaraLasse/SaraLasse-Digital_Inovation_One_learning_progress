@@ -1,0 +1,231 @@
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+core.usebuiltinfsmonitor=true
+pull.rebase=false
+credential.helper=manager-core
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=main
+useer.email=saralasse@outlook.com
+user.name=Sara
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ q
+bash: q: command not found
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ git config --global --unset user.name
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ git config --global --unset user.name
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ git config --global --unset useer.email
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+core.usebuiltinfsmonitor=true
+pull.rebase=false
+credential.helper=manager-core
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=main
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ ^C
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ git config --global user.name"SaraLasse"
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ git config --global useer.email"sara.lass@outlook.com"
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+core.usebuiltinfsmonitor=true
+pull.rebase=false
+credential.helper=manager-core
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=main
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ git config --global user.email "sara.lasse@outlook.com"
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+core.usebuiltinfsmonitor=true
+pull.rebase=false
+credential.helper=manager-core
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=main
+user.email=sara.lasse@outlook.com
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/livro-receitas (main)
+$ git config --global useer.email "sara.lasse@outlook.com
+> git config --global useer.email "sara.lasse@outlook.com"
+> git config --list
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> git config --list
+>
+ERRO: 
+
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/Livro_receitas (main)
+$ git remote add origin
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/Livro_receitas (main)
+$ git remote add https://github.com/SaraLasse/Livro_receitas.git
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/Livro_receitas (main)
+$ git status
+hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   cupcake.md
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    cupcake.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        receitas/
+
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/Livro_receitas (main)
+$ git push origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/SaraLasse/livro_de_receitas.git'
+
+saral@DESKTOP-LKCKO41 MINGW64 /d/DIO FULLSTACK/GIt & Github/workspace/Livro_receitas (main)
+$
+

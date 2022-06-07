@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="saral"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-05-10 12:18:10 "/>
+        <attribute name="created" value="c2FyYWw7REVTS1RPUC1MS0NLTzQxOzIwMjItMDUtMTA7IjEyOjE0OjM2ICI7Mjc3MQ=="/>
+        <attribute name="edited" value="c2FyYWw7REVTS1RPUC1MS0NLTzQxOzIwMjItMDUtMTA7IjEyOjE4OjEwICI7MTsyODc1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nota1, Nota2, Nota3, Nota4, Media" type="Real" array="False" size=""/>
+        </body>
+    </function>
+</flowgorithm>
